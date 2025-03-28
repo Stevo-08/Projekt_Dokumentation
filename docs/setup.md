@@ -1,6 +1,3 @@
-# Projekt einrichten
-1. Klone das Repository:
-   ```bash
-   git clone https://github.com/dein-username/projekt-dokumentation.git
-14:40 Uhr
-npm install
+## Inhalt
+- [Einrichtung](docs/setup.md)
+- [Funktionen](docs/features.md)
